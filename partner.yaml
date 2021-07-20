@@ -2,6 +2,11 @@ openapi: 3.0.1
 info:
   title: OpenAPI definition
   version: v0
+  description: |-
+    Вот здесь очень длинное описание.
+    И авторизация. 
+    И описание общего процесса 
+    И всё что угодно.
 servers:
   - url: 'http://payment.bak.ru'
     description: Prod URL
